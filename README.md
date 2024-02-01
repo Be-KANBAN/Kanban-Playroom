@@ -50,3 +50,10 @@ src="https://capsule-render.vercel.app/api?type=wave&color=auto&reversal=true&he
 
 
 ```
+
+# 회의 사진
+
+![image](https://github.com/Be-KANBAN/Kanban-Playroom/assets/149128094/be43d9f2-f0bf-4933-bfce-27734db8f803)
+
+![20240201_143827](https://github.com/Be-KANBAN/Kanban-Playroom/assets/149128094/db8fe4a4-46a9-47ab-a804-25636502be48)
+
