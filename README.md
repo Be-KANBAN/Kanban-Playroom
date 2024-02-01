@@ -1,7 +1,14 @@
+
+<img 
+src="https://capsule-render.vercel.app/api?type=wave&color=auto&reversal=true&height=300&section=header&text=Playroom&desc=Be01-3rd-5Team&textBg=true&fontSize=90&fontColor=ffee00&animation=fadeIn"
+/>
+
 # Kanban-Playroom
 
 
 # Member
+임성현, 전승민, 정수민, 주현성
+
 ```
 
 
