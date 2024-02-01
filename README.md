@@ -7,7 +7,7 @@ src="https://capsule-render.vercel.app/api?type=wave&color=auto&reversal=true&he
 
 
 # Member
-임성현, 전승민, 정수민, 주현성
+🐭 임성현, 🐹 전승민, 🐰 정수민, 🐶 주현성
 
 ```
 
